@@ -19,7 +19,7 @@ public class Main {
 
 
         } catch (NullPointerException | NumberFormatException e) {
-            JOptionPane.showMessageDialog(null, "Thanks for  Playing!!! \n " +
+            JOptionPane.showMessageDialog(null, "Thanks for Playing!!! \n " +
             " You have ether pushed cancel or entered a bad value, remember to type everything exactly");// when cancel button is pushed exits the game
         }
 
